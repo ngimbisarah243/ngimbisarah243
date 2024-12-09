@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah Ngimbi</h1>
 <h3 align="center">Student from HTL Leonding in 3rd class for Computer Science</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: sarahngimbi@icloud.com</h3>
 <p align="left">
 </p>
 
