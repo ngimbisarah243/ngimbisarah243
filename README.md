@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🦋, I'm Sarah Ngimbi</h1>
 <h3 align="center">Student from HTL Leonding in 3rd class for Computer Science</h3>
 
-- 🔭 I’m currently working on [Personalized Data Visualisation](https://github.com/2425-3AHIF-WMC/data-visualization)
-
 - 📫 How to reach me **sarahngimbi@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
